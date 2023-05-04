@@ -43,6 +43,14 @@
 
 =======
 
+## Folder structure
+
+- datasets: put the train / validation dataset here
+- demo: code for model integration / demostration
+- image_generator: GAN model implementation / training code
+- text_image_classifier: model implementation / training code
+- trained_models: the final trained models (.pt files)
+
 ## References
 
 - https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/
