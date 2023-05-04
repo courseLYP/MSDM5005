@@ -46,7 +46,8 @@
 ## Folder structure
 
 - datasets: put the train / validation dataset here
-- demo: code for model integration / demostration
+- app: code for model integration / demostration
+- demo: demo slides, charts
 - image_generator: GAN model implementation / training code
 - text_image_classifier: model implementation / training code
 - trained_models: the final trained models (.pt files)
