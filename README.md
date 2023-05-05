@@ -1,4 +1,4 @@
-# MSDM5005 Project
+# MSDM5055 Project
 
 ## Our Project Target:
 - An application of deep leardning models: Text-to-Image Synthesis
