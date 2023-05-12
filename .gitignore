@@ -1,0 +1,9 @@
+data/
+*/models/
+*.pt
+*.pth
+*/data/
+demo/fake_images/
+*/.ipynb_checkpoints/
+*/__pycache__/
+*/lightning_logs/
