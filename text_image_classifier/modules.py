@@ -8,7 +8,6 @@ class BERT_Arch(nn.Module):
         self.relu = nn.ReLU()
         self.fc1 = nn.Linear(768,512)
         self.fc2 = nn.Linear(512,nooffeatures)
-        self.softmax = nn.LogSoftmax(dim=1)  # 改、刪？
 
     def forward(self, sent_id, mask):
         #pass the inputs to the model
